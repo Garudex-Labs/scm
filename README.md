@@ -67,3 +67,40 @@ The SCM runtime automatically determines the required verification depth for eac
 * **Deployment Modes:** * *Gateway Mode:* The production default, where a shared SCM instance sits at the edge of an agent deployment.
 
 * *Sidecar Mode:* Designed for high-assurance, cross-organization environments, deploying an SCM instance alongside each agent as a Kubernetes sidecar.
+
+## 🏷️ "Powered by SCM" Label
+
+If you are building experimental integrations with SCM and want to showcase it, use our official label in your `README.md`.
+
+**Demo of the label:**
+
+<a href="https://github.com/Garudex-Labs/scm">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Garudex-Labs/scm/main/public/scm_logo_light.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Garudex-Labs/scm/main/public/scm_logo_dark.png">
+    <img alt="Powered by SCM" src="https://raw.githubusercontent.com/Garudex-Labs/scm/main/public/scm_logo_dark.png" height="40">
+  </picture>
+</a>
+
+> Copy and paste the HTML below to display the dynamically adapting label.
+
+```html
+<a href="https://github.com/Garudex-Labs/scm">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Garudex-Labs/scm/main/public/scm_logo_light.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Garudex-Labs/scm/main/public/scm_logo_dark.png">
+    <img alt="Powered by SCM" src="https://raw.githubusercontent.com/Garudex-Labs/scm/main/public/scm_logo_dark.png" height="40">
+  </picture>
+</a>
+```
+
+*(Note: Replace `Garudex-Labs` and `scm` with your actual repository details if hosting the image yourself).*
+
+---
+
+Project by Garudex Labs.
+
+- Repository: https://github.com/Garudex-Labs
+- Support: open an issue on the repository for questions or contributions.
+
+© Garudex Labs 2026
