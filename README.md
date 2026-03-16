@@ -70,13 +70,10 @@ The SCM runtime automatically determines the required verification depth for eac
 
 ---
 
-## ⚡ "Powered by SCM" Label
+## 👾 "Powered by SCM" Label
 
 If you are building experimental integrations with SCM and want to showcase it, use our official label in your `README.md`.
-
-**Demo of the label:**
-
-<a href="https://github.com/Garudex-Labs/scm" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/Powered%20By-0056b3?style=for-the-badge" alt="Powered By" height="30" align="absmiddle" style="margin-right: 6px;"/><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Garudex-Labs/scm/main/public/scm_logo_dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Garudex-Labs/scm/main/public/scm_logo_light.png"><img alt="SCM Logo" src="https://raw.githubusercontent.com/Garudex-Labs/scm/main/public/scm_logo_light.png" height="30" align="absmiddle"></picture></a>
+> *(Note: Copy and paste the HTML below to display the dynamically adapting label.)* 
 
 ```html
 <a href="https://github.com/Garudex-Labs/scm" target="_blank" style="text-decoration:none;">
@@ -89,7 +86,9 @@ If you are building experimental integrations with SCM and want to showcase it, 
 </a>
 ```
 
-*(Note: Copy and paste the HTML above to display the dynamically adapting label.)* 
+**Demo of the label:**
+
+<a href="https://github.com/Garudex-Labs/scm" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/Powered%20By-0056b3?style=for-the-badge" alt="Powered By" height="30" align="absmiddle" style="margin-right: 6px;"/><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Garudex-Labs/scm/main/public/scm_logo_dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Garudex-Labs/scm/main/public/scm_logo_light.png"><img alt="SCM Logo" src="https://raw.githubusercontent.com/Garudex-Labs/scm/main/public/scm_logo_light.png" height="30" align="absmiddle"></picture></a>
 
 ---
 
