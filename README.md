@@ -70,14 +70,6 @@ The SCM runtime automatically determines the required verification depth for eac
 
 ---
 
-Because GitHub's Markdown parser strips out advanced CSS (like Flexbox or CSS variables) for security reasons, we can't natively link the sizes of two separate images so that changing one automatically changes the other.
-
-However, we can force them to act as a single, unbroken component by removing the whitespace and line breaks between them in the code. This prevents GitHub from ever wrapping them onto two separate lines.
-
-To resize this combined label, a user simply needs to change the `height="40"` value in **both** `<img>` tags to their desired number (e.g., changing both to `30` or `50`).
-
-Here is the fully optimized, single-line component version:
-
 ## ⚡ "Powered by SCM" Label
 
 If you are building experimental integrations with SCM and want to showcase it, use our official label in your `README.md`.
